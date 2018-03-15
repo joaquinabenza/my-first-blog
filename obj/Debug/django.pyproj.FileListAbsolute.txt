@@ -1,0 +1,3 @@
+C:\django\obj\Debug\django.pyproj.CoreCompileInputs.cache
+C:\django\bin\Microsoft.PythonTools.WebRole.dll
+C:\django\bin\wfastcgi.py
